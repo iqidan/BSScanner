@@ -24,8 +24,8 @@
 
 # Effect
 ## 1测试页
-	<img align=center><img width="75" height="133" src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner1.png"/></img>
+	<img width="75" height="133" src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner1.png"/>
 ## 2竖屏
-	<img align=center><img width="75" height="133" src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner2.png"/></img>
+	<img width="75" height="133" src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner2.png"/>
 ## 3横屏
-	<img align=center><img width="75" height="133" src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner3.png"/></img>
+	<img width="75" height="133" src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner3.png"/>
