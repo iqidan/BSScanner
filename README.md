@@ -5,6 +5,8 @@
 # Use
 ## 1)添加文件
 	将文件夹BSScanner/BSScanner/BSScanner 拖入工程
+    使用的地方添加:
+    #import "BSScanner/BSScannerController.h"
 ## 2)使用
 	BSScannerController *scanVC = [BSScannerController new];
     __weak ViewController *weakSelf = self;
