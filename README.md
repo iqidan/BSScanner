@@ -3,9 +3,9 @@
 	采用系统AVFoundation框架自带的扫描功能, 支持横竖屏(需iOS7以上)
 
 # Use
-## 1)
+## 1)添加文件
 	将文件夹BSScanner/BSScanner/BSScanner 拖入工程
-## 2)
+## 2)使用
 	BSScannerController *scanVC = [BSScannerController new];
     __weak ViewController *weakSelf = self;
     //成功
@@ -24,14 +24,9 @@
 
 # Effect
 ## 1测试页
-
-	<img src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner1.png" width="350" alt="1测试页"/>
-	
+	![image](https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner1.png)
 ## 2竖屏
-
-	<img src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner2.png" width="350" alt="2竖屏"/>
-	
+	![image](https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner2.png)
 ## 3横屏
-
-	<img src="https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner3.png" width="700" alt="3横屏"/>
+	![image](https://github.com/iqidan/BSScanner/blob/master/BSScanner/imgs/BSScanner3.png)
 	
