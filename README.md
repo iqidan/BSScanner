@@ -1,9 +1,10 @@
 # BSScanner
 	iOS 二维码、条码扫描
+	采用系统AVFoundation框架自带的扫描功能, 支持横竖屏(需iOS7以上)
 
 # Use
 ## 1)
-	BSScanner/BSScanner/BSScanner 文件拖入工程
+	将文件夹BSScanner/BSScanner/BSScanner 拖入工程
 ## 2)
 	BSScannerController *scanVC = [BSScannerController new];
     __weak ViewController *weakSelf = self;

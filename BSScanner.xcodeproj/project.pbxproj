@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B12717E921941FC9005C53D1 /* BSScanner3.png in Resources */ = {isa = PBXBuildFile; fileRef = B12717E621941FC9005C53D1 /* BSScanner3.png */; };
+		B12717EA21941FC9005C53D1 /* BSScanner1.png in Resources */ = {isa = PBXBuildFile; fileRef = B12717E721941FC9005C53D1 /* BSScanner1.png */; };
+		B12717EB21941FC9005C53D1 /* BSScanner2.png in Resources */ = {isa = PBXBuildFile; fileRef = B12717E821941FC9005C53D1 /* BSScanner2.png */; };
 		B14E3994219288340065C59D /* UIView+BSAutoLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = B14E3993219288340065C59D /* UIView+BSAutoLayoutConstraint.m */; };
 		B1C847E92192DDC80080C905 /* ScanLine.png in Resources */ = {isa = PBXBuildFile; fileRef = B1C847E82192DDC80080C905 /* ScanLine.png */; };
 		B1D39B5821903F030027C9BA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B1D39B5721903F030027C9BA /* AppDelegate.m */; };
@@ -19,6 +22,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B12717E621941FC9005C53D1 /* BSScanner3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BSScanner3.png; sourceTree = "<group>"; };
+		B12717E721941FC9005C53D1 /* BSScanner1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BSScanner1.png; sourceTree = "<group>"; };
+		B12717E821941FC9005C53D1 /* BSScanner2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BSScanner2.png; sourceTree = "<group>"; };
 		B14E3992219288340065C59D /* UIView+BSAutoLayoutConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+BSAutoLayoutConstraint.h"; sourceTree = "<group>"; };
 		B14E3993219288340065C59D /* UIView+BSAutoLayoutConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+BSAutoLayoutConstraint.m"; sourceTree = "<group>"; };
 		B1C847E82192DDC80080C905 /* ScanLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScanLine.png; sourceTree = "<group>"; };
@@ -47,6 +53,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B12717E521941F33005C53D1 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				B12717E721941FC9005C53D1 /* BSScanner1.png */,
+				B12717E821941FC9005C53D1 /* BSScanner2.png */,
+				B12717E621941FC9005C53D1 /* BSScanner3.png */,
+			);
+			path = imgs;
+			sourceTree = "<group>";
+		};
 		B14E3991219288340065C59D /* BSAutoLayoutConstraint */ = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +102,7 @@
 		B1D39B5521903F030027C9BA /* BSScanner */ = {
 			isa = PBXGroup;
 			children = (
+				B12717E521941F33005C53D1 /* imgs */,
 				B1C847EA2192DDF90080C905 /* BSScanner */,
 				B1D39B5621903F030027C9BA /* AppDelegate.h */,
 				B1D39B5721903F030027C9BA /* AppDelegate.m */,
@@ -157,10 +174,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B12717EB21941FC9005C53D1 /* BSScanner2.png in Resources */,
 				B1C847E92192DDC80080C905 /* ScanLine.png in Resources */,
+				B12717EA21941FC9005C53D1 /* BSScanner1.png in Resources */,
 				B1D39B6321903F050027C9BA /* LaunchScreen.storyboard in Resources */,
 				B1D39B6021903F050027C9BA /* Assets.xcassets in Resources */,
 				B1D39B5E21903F030027C9BA /* Main.storyboard in Resources */,
+				B12717E921941FC9005C53D1 /* BSScanner3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
